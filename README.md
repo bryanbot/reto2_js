@@ -12,5 +12,5 @@ Simulación de un flujo de pedidos utilizando **Async/Await** y **Promesas** en 
    ```bash
    node index.js
    ```
-> [!NOTA]
+> [!NOTE]
 > Si se desea hacer pruebas con diferentes pedidos, modificar el valor del parámetro de `procesarPedido()` que se encuentra al final del código de `index.js`.
